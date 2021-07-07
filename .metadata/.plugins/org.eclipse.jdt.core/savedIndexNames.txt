@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\FLAVIANAGHI\Desktop\summer_school\.metadata\.plugins\org.eclipse.jdt.core
+4011334904.index
